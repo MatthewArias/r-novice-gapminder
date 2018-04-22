@@ -1,13 +1,11 @@
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/) 
- [![Slack Status](https://img.shields.io/badge/Slack_Channel-swc--r--gapminder-E01563.svg)](https://swcarpentry.slack.com/messages/C9Y0M3YKG) 
-
+Matthwe C. Arias 
 R for Reproducible Scientific Analysis
 ======================================
 
 An introduction to R for non-programmers using the [Gapminder][gapminder] data.
 Please see <https://swcarpentry.github.io/r-novice-gapminder> for a rendered version of this material,
 [the lesson template documentation][lesson-example]
-for instructions on formatting, building, and submitting material,
+for instructions on formatting, editing, and submitting material,
 or run `make` in this directory for a list of helpful commands.
 
 The goal of this lesson is to teach novice programmers to write modular code
